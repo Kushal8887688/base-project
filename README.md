@@ -1,1 +1,2 @@
-# base-project
+# My Base Project
+Learning Base and GitHub
